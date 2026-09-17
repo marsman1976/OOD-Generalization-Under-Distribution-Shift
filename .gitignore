@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.vscode/
+.idea/
+.DS_Store
+
+# Research data/results are local by default.
+data/*
+!data/README.md
+results/*
+!results/README.md
+
+# Large/raw artifacts
+*.zip
+*.xlsx
+*.xls

@@ -1,0 +1,11 @@
+{
+  "release_candidate_date": "2026-09-17",
+  "python_source_files": 69,
+  "frozen_evidence_files": 33,
+  "raw_phase7_data_included": false,
+  "syntax_validation": "PASS",
+  "wrapper_marker_validation": "PASS",
+  "clean_environment_full_reproduction": "NOT YET CLAIMED",
+  "permanent_repository_doi": "TO_BE_ADDED",
+  "software_license": "NOT YET SELECTED"
+}

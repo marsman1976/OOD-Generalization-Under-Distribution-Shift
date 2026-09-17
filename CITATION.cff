@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript and this software archive."
+title: "OOD Generalization Under Distribution Shift: Research Code"
+type: software
+authors:
+  - family-names: "Al Alewy"
+    given-names: "Abdulrazzag"
+version: "submission-release-candidate"
+date-released: "2026-09-17"
+abstract: "Research code for a seven-phase study of training-data composition, data augmentation, model configuration, distribution-shift family and severity, independent-generator replication, and real hydroponic external validation."
+repository-code: "TO_BE_ADDED_BEFORE_PUBLIC_RELEASE"
+license: "NOASSERTION"
